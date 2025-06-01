@@ -36,7 +36,7 @@ AI Chatbot App is a JavaFX desktop application that allows users to interact wit
 
 1. Clone the repository:
 ```bash
-git clone cd aichatbotapp 
+git clone https://github.com/herveinp/CodeAlpha_AI_Chatbot_App.git && cd CodeAlpha_AI_Chatbot_App 
 ```
 2. Build the project
 ```bash
